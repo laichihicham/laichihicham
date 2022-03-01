@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @laichihicham |Embarcadero MVP
-- 👀 I’m interested in desktop applications with delphi envirenment
-- 🌱 I’m currently learning advenced topics in delphi
+- 👋 Hi, I’m Hicham Laichi |Embarcadero MVP
+- 👀 I’m interested in desktop applications with delphi envirenment and some other technologies
+- 🌱 I’m currently learning topics in delphi and develop some desktop app by him
 - 💞️ I’m looking to collaborate with delphi community
 - 📫 How to reach me |www.delphiar.com or hdzsoft@gmail.com
 
